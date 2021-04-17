@@ -1,7 +1,9 @@
 ![Yash Aryan](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Yash%20Aryan&fontSize=60&&fontAlignY=35)
 
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=canaryGrapher.canaryGrapher)
 ## Introduction:
-Hi there! I am Yash Aryan. I like designing websites, discussing ideas, and meeting new people bundled with a deep passion for building things from scratch. I have an immense craze for DIYs, fiction, country music, and movies. Everyday, I am learning new things and am open to new ideas and will hop onboard new projects if I lifind it interesting. I'm always full of ideas, so you'll always find me working on something or the other.
+Hi there! I am Yash Aryan. I like designing websites, discussing ideas, and meeting new people bundled with a deep passion for building things from scratch. I have an immense craze for DIYs, fiction, country music, and movies. Every day, I am learning new things, am open to new ideas, and hop onboard new projects if I find them interesting. I'm always full of ideas, so you'll always find me working on something or the other.
 
 ## Key points:
 - 💻 View my page [yasharyan.com](https://yasharyan.com/)
@@ -32,4 +34,16 @@ Hi there! I am Yash Aryan. I like designing websites, discussing ideas, and meet
 - Arduino
 - Raspberry Pi
 
+## Github Stats:
+I work on a lot of projects, some of them never see the light of the day, but I push whatever I find meaningful on GitHub.
+
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=canaryGrapher&theme=radical)
+
+Most of the projects I work on are WebDev related, so obviously, my most used langauge would be JavaScript
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=canaryGrapher&hide=HTML&layout=compact)](https://github.com/canaryGrapher/github-readme-stats)
+
+
 ## Contact me
+I am active on almost every social media platform. Reach out to me.
+
