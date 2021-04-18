@@ -49,19 +49,19 @@ Most of the projects I work on are WebDev related, so obviously, my most used la
 Catch up with me on various social platforms. I will talk a lot sometimes.
 <br /><br />
 <a href="https://discord.gg/t2fz9HdfAr">
-  <img alt="My discord server" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
+  <img alt="My discord server" width="27px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a>
 <a href="https://twitter.com/canaryGrapher">
-  <img alt="My Twitter Profile" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+  <img alt="My Twitter Profile" width="27px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/yasharyan/">
-  <img alt="My LinkedIn Page" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img alt="My LinkedIn Page" width="27px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 <a href="https://www.facebook.com/enc0dable">
-  <img alt="My facebook page" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/facebook.svg" />
+  <img alt="My facebook page" width="27px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/facebook.svg" />
 </a>
 <a href="https://www.instagram.com/encodable/">
-  <img alt="My instagram page" width="22px" src="https://raw.githubusercontent.com/gist/jemminger/91c69559f5ce1cc45cecc1f2614325c6/raw/809bb0a961444f293a1e65fa4ead494bd93a77c6/instagram.svg" />
+  <img alt="My instagram page" width="27px" src="https://raw.githubusercontent.com/gist/jemminger/91c69559f5ce1cc45cecc1f2614325c6/raw/809bb0a961444f293a1e65fa4ead494bd93a77c6/instagram.svg" />
 </a>
 <br /> <br />
 If you like my work, consider sponsoring me and you'll make my day
