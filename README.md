@@ -3,7 +3,8 @@
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=canaryGrapher.canaryGrapher)
 ## Introduction:
-Hi there! I am Yash Aryan. I like designing websites, discussing ideas, and meeting new people bundled with a deep passion for building things from scratch. I have an immense craze for DIYs, fiction, country music, and movies. Every day, I am learning new things, am open to new ideas, and hop onboard new projects if I find them interesting. I'm always full of ideas, so you'll always find me working on something or the other.
+Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="20" /><br />
+I am Yash Aryan. I like designing websites, discussing ideas, and meeting new people bundled with a deep passion for building things from scratch. I have an immense craze for DIYs, fiction, country music, and movies. Every day, I am learning new things, am open to new ideas, and hop onboard new projects if I find them interesting. I'm always full of ideas, so you'll always find me working on something or the other.
 
 - 💻 View my page [yasharyan.com](https://yasharyan.com/)
 - 📃 I write blogs on [Hashnode](blogs.yasharyan.com)
@@ -15,14 +16,29 @@ Hi there! I am Yash Aryan. I like designing websites, discussing ideas, and meet
 - 📷 I maintain(or at least try to) a [Facebook](https://www.facebook.com/enc0dable) and an [Instagram](https://www.instagram.com/encodable/) page called Encodable. Check it out!
 - 🎮I started a [Discord](https://discord.gg/t2fz9HdfAr) server where people can share their programming knowledge and talk freely about their coding idealogy.
 
+---
+
+
 ## My Skills include:
-### Programming Languages & Frameworks
-- NodeJS
-- ReactJS
+<img alt="NodeJS" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg" height="30" />
+
+
+### Programming Languages
+- JavaScript
 - Python
 - GO
 - Ethereum (Solidity)
 - C++
+
+### WebDev Tools
+- NodeJS
+- ReactJS
+- CSS
+- SASS
+- Bootstrap
+- Tailwind
+- Halfmoon
+- MongoDB
 
 ### Technologies
 - 🖇️ Blockchain
@@ -36,6 +52,8 @@ Hi there! I am Yash Aryan. I like designing websites, discussing ideas, and meet
 - Arduino
 - Raspberry Pi
 
+---
+
 ## Github Stats:
 I work on a lot of projects, some of them never see the light of the day, but I push whatever I find meaningful on GitHub.
 
@@ -44,6 +62,8 @@ I work on a lot of projects, some of them never see the light of the day, but I 
 Most of the projects I work on are WebDev related, so obviously, my most used langauge would be JavaScript
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=canaryGrapher&hide=HTML&layout=compact)](https://github.com/canaryGrapher/github-readme-stats)
+
+---
 
 ## Catch up:
 Catch up with me on various social platforms. I will talk a lot sometimes.
