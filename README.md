@@ -20,8 +20,6 @@ I am Yash Aryan. I like designing websites, discussing ideas, and meeting new pe
 
 
 ## My Skills include:
-<img alt="NodeJS" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg" height="30" />
-
 
 ### Programming Languages
 - JavaScript
@@ -84,7 +82,8 @@ Catch up with me on various social platforms. I will talk a lot sometimes.
   <img alt="My instagram page" width="27px" src="https://raw.githubusercontent.com/gist/jemminger/91c69559f5ce1cc45cecc1f2614325c6/raw/809bb0a961444f293a1e65fa4ead494bd93a77c6/instagram.svg" />
 </a>
 <br /> <br />
-If you like my work, consider sponsoring me and you'll make my day
+If you like my work, consider sponsoring me. You'll make my day and motivate me to work on something more interesting, with more commitment.
 
 <a href="https://www.buymeacoffee.com/yasharyan" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
 
+![Yash Aryan](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
