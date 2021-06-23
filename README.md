@@ -31,6 +31,7 @@ I am Yash Aryan. I like designing websites, discussing ideas, and meeting new pe
 ### WebDev Tools
 - NodeJS
 - ReactJS
+- NextJS
 - CSS
 - SASS
 - Bootstrap
@@ -41,10 +42,6 @@ I am Yash Aryan. I like designing websites, discussing ideas, and meeting new pe
 ### Technologies
 - 🖇️ Blockchain
 - 🐧 Linux
-
-### DevOps
-- ☁️ AWS
-- 🐳 Docker
 
 ### Hardware
 - Arduino
