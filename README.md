@@ -24,11 +24,11 @@ I am Yash Aryan. I like designing websites, discussing ideas, and meeting new pe
 ### Programming Languages
 - JavaScript
 - Python
-- GO
-- Ethereum (Solidity)
+- GO (learning)
+- Ethereum (Solidity) 
 - C++
 
-### WebDev Tools
+### WebDev Technologies
 - NodeJS
 - ReactJS
 - NextJS
@@ -40,7 +40,7 @@ I am Yash Aryan. I like designing websites, discussing ideas, and meeting new pe
 - MongoDB
 
 ### Technologies
-- 🖇️ Blockchain
+- 🖇️ Blockchain (learning)
 - 🐧 Linux
 
 ### Hardware
