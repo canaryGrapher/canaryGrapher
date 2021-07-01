@@ -7,7 +7,7 @@ Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/ma
 I am Yash Aryan. I like designing websites, discussing ideas, and meeting new people bundled with a deep passion for building things from scratch. I have an immense craze for DIYs, fiction, country music, and movies. Every day, I am learning new things, am open to new ideas, and hop onboard new projects if I find them interesting. I'm always full of ideas, so you'll always find me working on something or the other.
 
 - 💻 View my page [yasharyan.com](https://yasharyan.com/)
-- 📃 I write blogs on [Hashnode](blogs.yasharyan.com)
+- 📃 I write blogs on [blogs.yasharyan.com](https://blogs.yasharyan.com)
 - 🌱 I’m currently learning [Tendermint](https://tendermint.com/)
 - ☕ I am up for collaborating on any interesting project you have
 - 📧 You can reach me through [mail@yasharyan.com](mailto:mail@yasharyan.com)
