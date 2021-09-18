@@ -23,6 +23,7 @@ I am Yash Aryan. I like designing websites, discussing ideas, and meeting new pe
 
 ### Programming Languages
 - JavaScript
+- TypeScript
 - Python
 - GO (learning)
 - Ethereum (Solidity) 
@@ -30,8 +31,10 @@ I am Yash Aryan. I like designing websites, discussing ideas, and meeting new pe
 
 ### WebDev Technologies
 - NodeJS
+- NestJS
 - ReactJS
 - NextJS
+- GastbyJs
 - CSS
 - SASS
 - Bootstrap
