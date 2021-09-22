@@ -13,8 +13,6 @@ I am Yash Aryan. I like designing websites, discussing ideas, and meeting new pe
 - 📧 You can reach me through [mail@yasharyan.com](mailto:mail@yasharyan.com)
 - 📱 Follow me on Twitter where I post random stuff [@canaryGraher](https://twitter.com/canaryGrapher)
 - 🕊 Send me a connection on [LinkedIn](https://www.linkedin.com/in/yasharyan/)
-- 📷 I maintain(or at least try to) a [Facebook](https://www.facebook.com/enc0dable) and an [Instagram](https://www.instagram.com/encodable/) page called Encodable. Check it out!
-- 🎮I started a [Discord](https://discord.gg/t2fz9HdfAr) server where people can share their programming knowledge and talk freely about their coding idealogy.
 
 ---
 
