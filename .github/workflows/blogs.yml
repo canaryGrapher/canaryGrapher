@@ -3,22 +3,20 @@ name: "📚 Blog Updater"
 on:
   workflow_dispatch:
   schedule:
-    - cron: '0 9 10,20,28 * *'
+    - cron: '0 0 * * *' # Runs Every Day
 
 jobs:
   update_blogs:
-    name: "Update Latest blog posts"
+    name: "Update Blogs"
     runs-on: ubuntu-latest
     steps:
       - name: "📥  Fetching Repository Contents"
         uses: actions/checkout@main
 
-      - name: "Hashnode Updater"
+      - name: "📚  Hashnode Updater"
         uses: "varunsridharan/action-hashnode-blog@main"
         with:
-          USERNAME: "yasharyan"
+          USERNAME: 'yasharyan'
           COUNT: 5
-          FILE: "README.md"
-          STYLE: "blog-grid"
         env:
-          GITHUB_TOKEN: ${{ secrets.TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
