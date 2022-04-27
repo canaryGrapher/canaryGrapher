@@ -17,6 +17,8 @@ jobs:
         uses: "varunsridharan/action-hashnode-blog@main"
         with:
           USERNAME: 'yasharyan'
-          COUNT: 5
+          COUNT: 4
+          FILE: "blog-alternate.md"
+          STYLE: "blog-alternate"
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
