@@ -197,6 +197,12 @@ I work on a lot of projects, some of them never see the light of the day, but I 
 
 ---
 
+## Latest Blogs
+<!-- HASHNODE_BLOG:START -->
+<!-- HASHNODE_BLOG:END -->
+
+---
+
 ### Connect with me:
 I can be talkative if I find you, or the topic interesting, so let's connect. 
 <p align="left">
