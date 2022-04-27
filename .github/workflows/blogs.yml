@@ -13,10 +13,12 @@ jobs:
       - name: "📥  Fetching Repository Contents"
         uses: actions/checkout@main
 
-      - name: "📚  Hashnode Updater"
+      - name: "Hashnode Updater"
         uses: "varunsridharan/action-hashnode-blog@main"
         with:
-          USERNAME: 'yasharyan' # Hashnode Username
-          COUNT: 5 # MAX Visisble
+          USERNAME: "yasharyan"
+          COUNT: 5
+          FILE: "README.md"
+          STYLE: "blog-grid"
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.TOKEN }}
