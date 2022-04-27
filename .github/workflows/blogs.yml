@@ -13,12 +13,11 @@ jobs:
       - name: "📥  Fetching Repository Contents"
         uses: actions/checkout@main
 
-      - name: "📥  blog-alternate"
+      - name: "📚  Hashnode Updater"
         uses: "varunsridharan/action-hashnode-blog@main"
         with:
-          USERNAME: ${{ env.hashnode_username }}
-          COUNT: ${{ env.count }}
-          FILE: "blog-alternate.md"
+          USERNAME: 'yasharyan'
+          COUNT: 4
           STYLE: "blog-alternate"
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
