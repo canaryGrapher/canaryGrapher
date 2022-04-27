@@ -205,7 +205,7 @@ I work on a lot of projects, some of them never see the light of the day, but I 
 <div><strong>25 Apr 2022</strong> | <strong>Updated: 25 Apr 2022</strong></div>
 <br/> The IT kingdom is expanding at a rate of knots, faster than it was growing before the pandemic hit. More people are using phones and IoT devices with internet capabilities. We see 4G being adopted even in under-developed countries, and the developed ... </p> <br/> <br/>
 <p align="left">
-<a href="https://yasharyan.hashnode.dev/zero-trust-networks-ckyuhv1780ai92vs1bi1z4eet" title="Zero Trust Networks"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1643135343046/wYq-dvDak.png" alt="Zero Trust Networks" width="250px" align="right" /></a>
+<a href="https://yasharyan.hashnode.dev/zero-trust-networks-ckyuhv1780ai92vs1bi1z4eet" title="Zero Trust Networks"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1643135343046/wYq-dvDak.png" alt="Zero Trust Networks" width="250px" align="left" /></a>
 <a href="https://yasharyan.hashnode.dev/zero-trust-networks-ckyuhv1780ai92vs1bi1z4eet" title="Zero Trust Networks"><strong>Zero Trust Networks</strong></a>
 <div><strong>25 Jan 2022</strong></div>
 <br/> Before talking about Zero Trust, what it is, and how companies are implementing it, let us take up an example of an imaginary city.
@@ -217,7 +217,7 @@ A long time ago, a walled empire known as Talevaria was considered one of the sa
 <div><strong>24 May 2021</strong> | <strong>Updated: 28 May 2021</strong></div>
 <br/> Images have become a crucial part of the internet. It's not just web applications that need images, social media has made sure that users not only consume data but also produce and share them. Applications like WhatsApp, Telegram, and Discord also su... </p> <br/> <br/>
 <p align="left">
-<a href="https://yasharyan.hashnode.dev/installing-ubuntu-server-2004-cknv6ioo10fjbbts14jys5c40" title="Installing Ubuntu Server 20.04"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1619232103712/xjfSqzjQU.png" alt="Installing Ubuntu Server 20.04" width="250px" align="right" /></a>
+<a href="https://yasharyan.hashnode.dev/installing-ubuntu-server-2004-cknv6ioo10fjbbts14jys5c40" title="Installing Ubuntu Server 20.04"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1619232103712/xjfSqzjQU.png" alt="Installing Ubuntu Server 20.04" width="250px" align="left" /></a>
 <a href="https://yasharyan.hashnode.dev/installing-ubuntu-server-2004-cknv6ioo10fjbbts14jys5c40" title="Installing Ubuntu Server 20.04"><strong>Installing Ubuntu Server 20.04</strong></a>
 <div><strong>20 Apr 2021</strong> | <strong>Updated: 24 Apr 2021</strong></div>
 <br/> Introduction
