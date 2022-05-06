@@ -5,6 +5,7 @@
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=canaryGrapher.canaryGrapher)
 
 ## Introduction:
+
 Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="20" /><br />
 I am Yash Aryan. I like designing websites, discussing ideas, and meeting new people bundled with a deep passion for building things from scratch. I have an immense craze for DIYs, fiction, country music, and movies. Every day, I am learning new things, am open to new ideas, and hop onboard new projects if I find them interesting. I'm always full of ideas, so you'll always find me working on something or the other.
 
@@ -15,7 +16,7 @@ I am Yash Aryan. I like designing websites, discussing ideas, and meeting new pe
 - 📧 You can reach me through [mail@yasharyan.com](mailto:mail@yasharyan.com) <br />
 - 📱 Follow me on Twitter where I post random stuff [@canaryGraher](https://twitter.com/canaryGrapher) <br />
 - 🕊 Send me a connection request on [LinkedIn](https://www.linkedin.com/in/yasharyan/) <br />
-  
+
 ---
 
 <p align="center"> 
@@ -255,6 +256,12 @@ I can be talkative if I find you, or the topic interesting, so let's connect.
   </a>
 </p>
 
+---
+
+### My Daily.dev DevCard
+
+ <a href="https://app.daily.dev/canaryGrapher"><img src="https://api.daily.dev/devcards/51f643b36a524cb79a0c6e1db3455db8.png?r=pui" width="200" alt="Yash Aryan's Dev Card"/></a>
+ 
 ---
 
 ### Support me
