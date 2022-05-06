@@ -260,7 +260,7 @@ I can be talkative if I find you, or the topic interesting, so let's connect.
 
 ### My Daily.dev DevCard
 
- <a href="https://app.daily.dev/canaryGrapher"><img src="https://api.daily.dev/devcards/51f643b36a524cb79a0c6e1db3455db8.png?r=pui" width="200" alt="Yash Aryan's Dev Card"/></a>
+ <a href="https://app.daily.dev/canaryGrapher"><img src="https://github.com/canaryGrapher/canaryGrapher/raw/main/devcard.svg" width="200" alt="Yash Aryan's Dev Card"/></a>
  
 ---
 
