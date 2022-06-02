@@ -143,6 +143,9 @@ I am Yash Aryan. I like designing websites, discussing ideas, and meeting new pe
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=canarygrapher&theme=radical" alt="canarygrapher" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=canarygrapher&show_icons=true&locale=en&layout=compact&theme=radical" alt="canarygrapher" />
 </p>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/27415791/171735469-785328a9-5346-40af-9fa0-ae9c01b075db.png" />
+</p>
 
 ---
 
