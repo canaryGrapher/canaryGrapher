@@ -56,11 +56,11 @@ I am Yash Aryan. I like designing websites, discussing ideas, and meeting new pe
 <h3 align="center">Backend</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs" />
+    <img src="https://skillicons.dev/icons?i=nodejs,express" />
   </a>
 </p>
 
-<h3 align="center">Server Side Rendering Solutions</h3>
+<h3 align="center">Server Side Rendering Frameworks</h3>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=remix,nextjs,gatsby" />
@@ -77,7 +77,7 @@ I am Yash Aryan. I like designing websites, discussing ideas, and meeting new pe
 <h3 align="center">Cloud Providers</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,azure,gcp" />
+    <img src="https://skillicons.dev/icons?i=aws,azure" />
   </a>
 </p>
 
@@ -91,19 +91,6 @@ I am Yash Aryan. I like designing websites, discussing ideas, and meeting new pe
   </a>
   <a href="https://www.npmjs.com/" target="_blank" rel="noreferrer">
     <img src="https://user-images.githubusercontent.com/27415791/165463943-cfb3aa0d-afff-4b42-a8ff-156a072ef0c5.svg" alt="npm" width="40" height="40" />
-  </a>
-  <a href="https://docs.microsoft.com/en-us/azure/azure-resource-manager/management/overview" target="_blank" rel="noreferrer">
-    <img src="https://user-images.githubusercontent.com/27415791/165468173-4a47b9a9-5715-4323-9b01-1333ac06790d.png" alt="ARM " width="40" height="40" />
-  </a>
-</p>
-
-<h3 align="center">Technologies</h3>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=docker" />
-  </a>
-  <a href="https://ethereum.org/en/" target="_blank" rel="noreferrer">
-    <img src="https://cryptologos.cc/logos/ethereum-eth-logo.svg" alt="npm" width="40" height="40" />
   </a>
 </p>
 
