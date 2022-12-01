@@ -139,6 +139,13 @@ I am Yash Aryan. I like designing websites, discussing ideas, and meeting new pe
 <h2 align="center">Latest Blogs</h2>
 <!-- HASHNODE_BLOG:START -->
 <p align="left">
+<a href="https://yasharyan.hashnode.dev/exploring-composite-apis-clb30b00g000308moghtq6x5c" title="Exploring composite APIs"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1669773834695/MtXAqrQcv.png" alt="Exploring composite APIs" width="250px" align="left" /></a>
+<a href="https://yasharyan.hashnode.dev/exploring-composite-apis-clb30b00g000308moghtq6x5c" title="Exploring composite APIs"><strong>Exploring composite APIs</strong></a>
+<div><strong>28 Nov 2022</strong></div>
+<br/> !! NOTE: This is a developing story and in review+research phase
+Introduction
+Have you heard of composite APIs? Do you know what it does? Like most of the freshers out there, even I had no idea about such architecture. I recently joined a company as ... </p> <br/> <br/>
+<p align="left">
 <a href="https://yasharyan.hashnode.dev/what-the-fish-is-edge-computing-cl2eemw67036yetnva8jchpxw" title="What the fish is Edge Computing?"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1650871501721/NKiI0LH6B.png" alt="What the fish is Edge Computing?" width="250px" align="left" /></a>
 <a href="https://yasharyan.hashnode.dev/what-the-fish-is-edge-computing-cl2eemw67036yetnva8jchpxw" title="What the fish is Edge Computing?"><strong>What the fish is Edge Computing?</strong></a>
 <div><strong>25 Apr 2022</strong> | <strong>Updated: 25 Apr 2022</strong></div>
@@ -155,12 +162,6 @@ A long time ago, a walled empire known as Talevaria was considered one of the sa
 <a href="https://yasharyan.hashnode.dev/store-images-on-mongodb-ckp4e60j90046irs11vvngh5w" title="Store images on MongoDB"><strong>Store images on MongoDB</strong></a>
 <div><strong>24 May 2021</strong> | <strong>Updated: 28 May 2021</strong></div>
 <br/> Images have become a crucial part of the internet. It's not just web applications that need images, social media has made sure that users not only consume data but also produce and share them. Applications like WhatsApp, Telegram, and Discord also su... </p> <br/> <br/>
-<p align="left">
-<a href="https://yasharyan.hashnode.dev/installing-ubuntu-server-2004-cknv6ioo10fjbbts14jys5c40" title="Installing Ubuntu Server 20.04"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1619232103712/xjfSqzjQU.png" alt="Installing Ubuntu Server 20.04" width="250px" align="left" /></a>
-<a href="https://yasharyan.hashnode.dev/installing-ubuntu-server-2004-cknv6ioo10fjbbts14jys5c40" title="Installing Ubuntu Server 20.04"><strong>Installing Ubuntu Server 20.04</strong></a>
-<div><strong>20 Apr 2021</strong> | <strong>Updated: 24 Apr 2021</strong></div>
-<br/> Introduction
-Ubuntu is undoubtedly one of the most popular  Linux Distro out there. It is quite common for someone charting Linux waters to dive into Ubuntu at one point in time, even if it is just to check what it tastes like. But there is not just ... </p> <br/> <br/>
 <!-- HASHNODE_BLOG:END -->
 
 ---
