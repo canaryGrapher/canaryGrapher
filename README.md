@@ -141,7 +141,7 @@ I am Yash Aryan. I like designing websites, discussing ideas, and meeting new pe
 <p align="left">
 <a href="https://yasharyan.hashnode.dev/exploring-composite-apis-clb30b00g000308moghtq6x5c" title="Exploring composite APIs"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1669773834695/MtXAqrQcv.png" alt="Exploring composite APIs" width="250px" align="left" /></a>
 <a href="https://yasharyan.hashnode.dev/exploring-composite-apis-clb30b00g000308moghtq6x5c" title="Exploring composite APIs"><strong>Exploring composite APIs</strong></a>
-<div><strong>28 Nov 2022</strong></div>
+<div><strong>28 Nov 2022</strong> | <strong>Updated: 3 Dec 2022</strong></div>
 <br/> !! NOTE: This is a developing story and in review+research phase
 Introduction
 Have you heard of composite APIs? Do you know what it does? Like most of the freshers out there, even I had no idea about such architecture. I recently joined a company as ... </p> <br/> <br/>
