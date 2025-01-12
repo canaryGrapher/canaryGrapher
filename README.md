@@ -1,20 +1,20 @@
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Yash%20Aryan&fontSize=60&&fontAlignY=35" />
+<img src="https://capsule-render.vercel.app/api?type=rounded&height=300&color=gradient&text=Yash%20Aryan&reversal=false&textBg=false&fontAlign=50&animation=fadeIn" />
 </p>
   
 <h1 align="center"><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="20" /> Introduction</h1>
 <p align="justify">
-I am Yash Aryan. I like designing websites, discussing ideas, and meeting new people bundled with a deep passion for building things from scratch. I have an immense craze for DIYs, fiction, country music, and movies. Every day, I am learning new things, am open to new ideas, and hop onboard new projects if I find them interesting. I'm always full of ideas, so you'll always find me working on something or the other.
+I am Yash Aryan. I like designing websites, discussing ideas, and meeting new people, bundled with a deep passion for building things from scratch. I have an immense craze for DIYs, fiction, country music, and movies. Every day, I learn new things, am open to new ideas, and hop on board new projects if I find them interesting. I'm always full of ideas, so you'll always find me working on something.
 <p>
   
 <ul align="left">
-<li>💻 View my page <a href="https://yasharyan.com">yasharyan.com</a></li>
-<li>📃 I write blogs on <a href="https://blogs.yasharyan.com">blogs.yasharyan.com</a></li>
-<li>🌱 I’m currently learning <a href="https://tendermint.com">Tendermint</a></li>
+<li>💻 View my page <a href="https://yasharyan.com">yasharyan.is-a.dev</a></li>
+<li>📃 I write blogs on <a href="https://theprogrammersrant.medium.com/">Medium</a></li>
+<li>🤖 I’m currently learning Artificial Intelligence</li>
 <li>☕ I am up for collaborating on any interesting project you have</li>
-<li>📧 You can reach me through <a href="mailto:mail@yasharyan.com">mail@yasharyan.com</a></li>
-<li>📱 Follow me on Twitter where I post random stuff <a href="https://twitter.com/canaryGrapher">@canaryGraher</a></li>
-<li>🕊 Send me a connection request on <a href="https://www.linkedin.com/in/yasharyan/">LinkedIn</a></li>
+<li><span><img src="https://skillicons.dev/icons?i=instagram" height="12px" /></span> You can reach me through my <a href="https://www.instagram.com/corporatebiker/">Instagram</a> page</li>
+<li><span><img src="https://skillicons.dev/icons?i=twitter" height="12px" /></span> Follow me on Twitter where I post random stuff <a href="https://twitter.com/canaryGrapher">@canaryGraher</a></li>
+<li><span><img src="https://skillicons.dev/icons?i=linkedin" height="12px" /></span> Send me a connection request on <a href="https://www.linkedin.com/in/yasharyan/">LinkedIn</a></li>
 </ul>
     
 ---
@@ -29,12 +29,12 @@ I am Yash Aryan. I like designing websites, discussing ideas, and meeting new pe
 
 
 <h1 align="center">My Skills</h1>
-<p align="justify">These are the skills I use, or have used for projects. I may not be able to qualify for an interview in all of them, but I do have a working knowledge of them. I am still in the process of learning some of these skills.</p>
+<p align="justify">These are the skills I use or have used for projects. I may not be able to qualify for an interview in all of them, but I do have a working knowledge of them. I am still in the process of learning some of these skills.</p>
 
 <h2 align="center">Programming Languages</h2>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,sass,js,typescript,python,go,c,cpp,solidity" />
+    <img src="https://skillicons.dev/icons?i=js,typescript,python,go,solidity,bash" />
   </a>
 </p>
 
@@ -43,10 +43,7 @@ I am Yash Aryan. I like designing websites, discussing ideas, and meeting new pe
 <h3 align="center">Frontend</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nextjs,tailwind,bootstrap,redux,react,pug" />
-  </a>
-  <a href="https://www.gethalfmoon.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://user-images.githubusercontent.com/27415791/165465800-eb61c231-b461-4f6a-8f08-575ad2f36fe3.png" alt="halfmoon" width="40" height="40" /> 
+    <img src="https://skillicons.dev/icons?i=nextjs,react,electron,tailwind,bootstrap" />
   </a>
   <a href="https://ant.design/" target="_blank" rel="noreferrer">
     <img src="https://user-images.githubusercontent.com/27415791/165464925-2c8f5b05-3930-4d59-8089-6781fcf3bfe4.svg" alt="ant design" width="40" height="40" />
@@ -56,51 +53,35 @@ I am Yash Aryan. I like designing websites, discussing ideas, and meeting new pe
 <h3 align="center">Backend</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,express" />
-  </a>
-</p>
-
-<h3 align="center">Server Side Rendering Frameworks</h3>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=remix,nextjs,gatsby" />
+    <img src="https://skillicons.dev/icons?i=nodejs,express,nest" />
   </a>
 </p>
 
 <h3 align="center">Databases</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mongodb,redis" />
+    <img src="https://skillicons.dev/icons?i=mongodb,redis,mysql,postgres" />
   </a>
 </p>
 
 <h3 align="center">Cloud Providers</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,azure" />
+    <img src="https://skillicons.dev/icons?i=aws,azure,gcp,heroku,vercel" />
   </a>
 </p>
 
 <h3 align="center">Tools</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,bash,figma,nginx" />
-  </a>
-  <a href="https://postman.com" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> 
-  </a>
-  <a href="https://www.npmjs.com/" target="_blank" rel="noreferrer">
-    <img src="https://user-images.githubusercontent.com/27415791/165463943-cfb3aa0d-afff-4b42-a8ff-156a072ef0c5.svg" alt="npm" width="40" height="40" />
+    <img src="https://skillicons.dev/icons?i=git,figma,nginx,postman,npm,yarn,pnpm,figma" />
   </a>
 </p>
 
 <h3 align="center">Operating Systems</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux" />
-  </a>
-  <a href="https://www.microsoft.com/en-in/windows" target="_blank" rel="noreferrer"> 
-    <img src="https://user-images.githubusercontent.com/27415791/165467648-9893c082-394f-4871-984f-f3bb624ba038.png" alt="windows" width="40" height="40"/> 
+    <img src="https://skillicons.dev/icons?i=linux,windows,apple" />
   </a>
 </p>
 
@@ -111,22 +92,11 @@ I am Yash Aryan. I like designing websites, discussing ideas, and meeting new pe
   </a>
 </p>
 
-<h3 align="center">Editors</h3>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode" />
-  </a>
-  <a href="https://www.nano-editor.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://user-images.githubusercontent.com/27415791/165486268-81cc64c1-7c40-4149-aba2-da09d09a0afa.png" alt="GNU Nano" width="40" height="40"/> 
-  </a>
-</p>
-
 ---
 
 <h2 align="center">Github Stats</h2>
-<p align="justify">I work on a lot of projects, some of them never see the light of the day, but I push whatever I find meaningful on GitHub. Most of the projects I work on are WebDev related, so obviously, my most used langauge would be JavaScript/TypeScript.</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=canarygrapher&show_icons=true&locale=en&theme=radical" alt="canarygrapher" />
+<p align="justify">I work on many projects; some never see the light of the day, but I push whatever I find meaningful on GitHub. Most of the projects I work on are WebDev-related, so obviously, my most used language would be JavaScript/TypeScript.</p>t
+  <img src="https://github-readme-stats.vercel.app/api?username=canarygrapher&show_icons=true&locale=en&theme=radical&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" alt="canarygrapher" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=canarygrapher&theme=radical" alt="canarygrapher" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=canarygrapher&show_icons=true&locale=en&layout=compact&theme=radical" alt="canarygrapher" />
 </p>
@@ -155,12 +125,12 @@ Have you heard of composite APIs? Do you know what it does? Like most of the fre
 <a href="https://yasharyan.hashnode.dev/what-the-fish-is-edge-computing-cl2eemw67036yetnva8jchpxw" title="What the fish is Edge Computing?"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1650871501721/NKiI0LH6B.png" alt="What the fish is Edge Computing?" width="250px" align="left" /></a>
 <a href="https://yasharyan.hashnode.dev/what-the-fish-is-edge-computing-cl2eemw67036yetnva8jchpxw" title="What the fish is Edge Computing?"><strong>What the fish is Edge Computing?</strong></a>
 <div><strong>25 Apr 2022</strong> | <strong>Updated: 25 Apr 2022</strong></div>
-<br/> The IT kingdom is expanding at a rate of knots, faster than it was growing before the pandemic hit. More people are using phones and IoT devices with internet capabilities. We see 4G being adopted even in under-developed countries, and the developed ... </p> <br/> <br/>
+<br/> The IT kingdom is expanding at a rate of knots, faster than it grew before the pandemic hit. More people are using phones and IoT devices with internet capabilities. We see 4G being adopted even in under-developed countries, and the developed ... </p> <br/> <br/>
 <p align="left">
 <a href="https://yasharyan.hashnode.dev/zero-trust-networks-ckyuhv1780ai92vs1bi1z4eet" title="Zero Trust Networks"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1643135343046/wYq-dvDak.png" alt="Zero Trust Networks" width="250px" align="left" /></a>
 <a href="https://yasharyan.hashnode.dev/zero-trust-networks-ckyuhv1780ai92vs1bi1z4eet" title="Zero Trust Networks"><strong>Zero Trust Networks</strong></a>
 <div><strong>25 Jan 2022</strong></div>
-<br/> Before talking about Zero Trust, what it is, and how companies are implementing it, let us take up an example of an imaginary city.
+<br/> Before talking about Zero Trust, what it is, and how companies implement it, let us take up an example of an imaginary city.
 Hypothetical case
 A long time ago, a walled empire known as Talevaria was considered one of the safest and most loved ... </p> <br/> <br/>
 <!-- HASHNODE_BLOG:END -->
@@ -222,10 +192,6 @@ A long time ago, a walled empire known as Talevaria was considered one of the sa
   <a href="https://www.buymeacoffee.com/yasharyan">
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" >
   </a>
-</p>
-
-<p align="center">
-  <img src="https://visitor-badge.glitch.me/badge?page_id=canaryGrapher.canaryGrapher" />
 </p>
 
 <p align="center">
