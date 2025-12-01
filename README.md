@@ -4,7 +4,7 @@
   
 <h1 align="center"><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="20" /> Introduction</h1>
 <p align="justify">
-I am Yash Aryan. I like designing websites, discussing ideas, and meeting new people, bundled with a deep passion for building things from scratch. I have an immense craze for DIYs, fiction, country music, and movies. Every day, I learn new things, am open to new ideas, and hop on board new projects if I find them interesting. I'm always full of ideas, so you'll always find me working on something.
+I am Yash. I like designing websites, discussing ideas, and meeting new people, bundled with a deep passion for building things from scratch. I have an immense craze for DIYs, fiction, country music, and movies. Every day, I learn new things, am open to new ideas, and hop on board new projects if I find them interesting. I'm always full of ideas, so you'll always find me working on something.
 <p>
   
 <ul align="left">
