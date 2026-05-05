@@ -10,8 +10,6 @@ I am Yash. I like designing websites, discussing ideas, and meeting new people, 
 <ul align="left">
 <li>💻 View my page <a href="https://yasharyan.dev">yasharyan.dev</a></li>
 <li>📃 I write blogs on <a href="https://theprogrammersrant.medium.com/">Medium</a></li>
-<li>🤖 I’m currently learning Artificial Intelligence</li>
-<li>🏍️ I am a motorcyclist.</li>
 <li>☕ I am up for collaborating on any interesting project you have</li>
 <li><span><img src="https://skillicons.dev/icons?i=instagram" height="12px" /></span> You can reach me through my <a href="https://www.instagram.com/lifethrottling/">Instagram</a> page</li>
 <li><span><img src="https://skillicons.dev/icons?i=twitter" height="12px" /></span> Follow me on Twitter where I post random stuff <a href="https://twitter.com/canaryGrapher">@canaryGraher</a></li>
