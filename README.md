@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rounded&height=250&color=gradient&text=Yash%20Aryan&desc=Full-Stack%20Developer%20%7C%20React%20%C2%B7%20TypeScript%20%C2%B7%20Node.js&descAlignY=75&fontAlign=50&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=rounded&height=250&color=gradient&text=Yash%20Aryan&desc=Software%20Engineer%20%7C%20Full-Stack%20%C2%B7%20Cloud%20%C2%B7%20AI&descAlignY=75&fontAlign=50&animation=fadeIn" />
 </p>
 
-<h3 align="center">Frontend-leaning full-stack developer with 3+ years of production experience in regulated fintech</h3>
+<h3 align="center">Software Engineer with 3+ years of production experience across fintech, AI, and Web3</h3>
 
 <p align="center">
   <a href="https://yasharyan.dev"><img src="https://img.shields.io/badge/Portfolio-yasharyan.dev-blue?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
@@ -14,10 +14,12 @@
 
 ## About Me
 
-- Built customer-facing **onboarding and WebAuthn authentication flows at banking scale** at ICICI Bank
-- Led **frontend architecture** as Lead Application Developer at FireAI: Electron desktop client, design systems, legacy-to-React migrations
-- Comfortable across the stack: **React, TypeScript, Next.js, Node.js, NestJS, Go**, plus Web3 (Web3.js, MetaMask, smart contract flows)
-- Experience with **Node microservices performance tuning** and observability (Dynatrace)
+- **Full-stack engineering**: React, Next.js, TypeScript, Node.js, NestJS, and Go, with a strong focus on scalable architecture, design systems, and API design (GraphQL and REST)
+- **B2B SaaS**: built and shipped multi-tenant SaaS products end to end, from data sync clients and analytics dashboards to admin consoles, usage quotas, and enterprise onboarding flows
+- **Cloud and DevOps**: AWS, GCP, Docker, and CI/CD pipelines, with hands-on experience in observability and performance tuning of distributed services
+- **AI-assisted development**: build and ship faster with AI-first workflows (Claude, Gemini, Cursor, Ollama), from rapid MVP prototyping and vibe coding to prompt engineering and LLM integration in products
+- **Security and authentication**: WebAuthn, secure session flows, and compliance-aware engineering from working in regulated fintech environments
+- **Web3**: smart contract integration with Web3.js, MetaMask, and multi-chain wallet flows
 - I write about engineering on [Medium](https://theprogrammersrant.medium.com/) and [Hashnode](https://yasharyan.hashnode.dev/)
 
 ---
@@ -140,25 +142,56 @@
 
 ## Tech Stack
 
-**Languages**
-<p>
-  <img src="https://skillicons.dev/icons?i=typescript,js,go,python,solidity,bash" />
-</p>
-
-**Frontend**
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,electron,tailwind,bootstrap,figma" />
-</p>
-
-**Backend and Databases**
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,nest,graphql,postgres,mongodb,redis,mysql" />
-</p>
-
-**Cloud and DevOps**
-<p>
-  <img src="https://skillicons.dev/icons?i=aws,azure,gcp,vercel,docker,nginx,git,linux" />
-</p>
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h4>Languages</h4>
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://go-skill-icons.vercel.app/api/icons?i=typescript%2Cjs%2Cgo%2Cpython%2Csolidity%2Cbash&theme=light">
+        <img src="https://go-skill-icons.vercel.app/api/icons?i=typescript%2Cjs%2Cgo%2Cpython%2Csolidity%2Cbash&theme=dark" alt="Languages" />
+      </picture>
+    </td>
+    <td width="50%" valign="top">
+      <h4>Frontend</h4>
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://go-skill-icons.vercel.app/api/icons?i=react%2Cnextjs%2Celectron%2Ctailwind%2Cbootstrap%2Cfigma&theme=light">
+        <img src="https://go-skill-icons.vercel.app/api/icons?i=react%2Cnextjs%2Celectron%2Ctailwind%2Cbootstrap%2Cfigma&theme=dark" alt="Frontend" />
+      </picture>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>Backend and Databases</h4>
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://go-skill-icons.vercel.app/api/icons?i=nodejs%2Cexpress%2Cnestjs%2Cgraphql%2Cpostgres%2Cmongodb%2Credis%2Cmysql&theme=light">
+        <img src="https://go-skill-icons.vercel.app/api/icons?i=nodejs%2Cexpress%2Cnestjs%2Cgraphql%2Cpostgres%2Cmongodb%2Credis%2Cmysql&theme=dark" alt="Backend and Databases" />
+      </picture>
+    </td>
+    <td width="50%" valign="top">
+      <h4>Cloud and DevOps</h4>
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://go-skill-icons.vercel.app/api/icons?i=aws%2Cazure%2Cgcp%2Cvercel%2Cdocker%2Cnginx%2Cgit%2Clinux&theme=light">
+        <img src="https://go-skill-icons.vercel.app/api/icons?i=aws%2Cazure%2Cgcp%2Cvercel%2Cdocker%2Cnginx%2Cgit%2Clinux&theme=dark" alt="Cloud and DevOps" />
+      </picture>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>AI and Tooling</h4>
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://go-skill-icons.vercel.app/api/icons?i=claude%2Cgemini%2Collama%2Ccursor&theme=light">
+        <img src="https://go-skill-icons.vercel.app/api/icons?i=claude%2Cgemini%2Collama%2Ccursor&theme=dark" alt="AI and Tooling" />
+      </picture>
+    </td>
+    <td width="50%" valign="top">
+      <h4>Web3</h4>
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://go-skill-icons.vercel.app/api/icons?i=solidity%2Cethereum%2Chardhat&theme=light">
+        <img src="https://go-skill-icons.vercel.app/api/icons?i=solidity%2Cethereum%2Chardhat&theme=dark" alt="Web3" />
+      </picture>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -184,10 +217,30 @@
 ## Let's Connect
 
 <p align="center">
-  <a href="https://linkedin.com/in/yasharyan"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
-  <a href="https://twitter.com/canarygrapher"><img src="https://skillicons.dev/icons?i=twitter" /></a>
-  <a href="https://stackoverflow.com/users/11288471"><img src="https://skillicons.dev/icons?i=stackoverflow" /></a>
-  <a href="https://www.instagram.com/lifethrottling/"><img src="https://skillicons.dev/icons?i=instagram" /></a>
+  <a href="https://linkedin.com/in/yasharyan">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://go-skill-icons.vercel.app/api/icons?i=linkedin&theme=light">
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=linkedin&theme=dark" alt="LinkedIn" />
+    </picture>
+  </a>
+  <a href="https://twitter.com/canarygrapher">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://go-skill-icons.vercel.app/api/icons?i=twitter&theme=light">
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=twitter&theme=dark" alt="Twitter" />
+    </picture>
+  </a>
+  <a href="https://stackoverflow.com/users/11288471">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://go-skill-icons.vercel.app/api/icons?i=stackoverflow&theme=light">
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=stackoverflow&theme=dark" alt="Stack Overflow" />
+    </picture>
+  </a>
+  <a href="https://www.instagram.com/lifethrottling/">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://go-skill-icons.vercel.app/api/icons?i=instagram&theme=light">
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=instagram&theme=dark" alt="Instagram" />
+    </picture>
+  </a>
 </p>
 
 <p align="center">
@@ -196,4 +249,4 @@
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
-</p>
+</p> 
