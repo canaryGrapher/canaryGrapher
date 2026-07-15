@@ -1,4 +1,3 @@
-​# Place at: .github/workflows/update-readme.yml in the canaryGrapher/canaryGrapher repo
 name: Update README recent activity
 
 on:
